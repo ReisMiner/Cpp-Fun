@@ -14,5 +14,4 @@ Does some funni things :)
 ### Fixing comiler stuff
 
 Sometimes compilers are weird. 
-If that happens and you cannot run da exe enter this build command:
-`g++ -o start.exe main.cpp -static-libgcc -static-libstdc++`
+If that happens and you cannot run da exe enter this build command: `g++ -o start.exe main.cpp -static-libgcc -static-libstdc++`
