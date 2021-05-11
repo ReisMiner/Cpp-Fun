@@ -10,3 +10,9 @@ Does some funni things :)
 - ignore da errors
 - run `start start.exe` in CMD 
 - prenk ur friends with the exe :)
+
+### Fixing comiler stuff
+
+Sometimes compilers are weird. 
+If that happens and you cannot run da exe enter this build command:
+`g++ -o start.exe main.cpp -static-libgcc -static-libstdc++`
