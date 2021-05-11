@@ -6,8 +6,8 @@ Does some funni things :)
 
 - install mingw64
 - make download main.cpp
-- run `g++ -o start.exe main.cpp` in CMD
-- ignore da errors
+- run `g++ -o start.exe main.cpp` in CMD to build da exe :)
+- ignore da errors. i used deprecated stuff thats why they show up
 - run `start start.exe` in CMD 
 - prenk ur friends with the exe :)
 
