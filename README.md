@@ -5,6 +5,7 @@ Does some funni things :)
 ## How To Use?
 
 - install mingw64 (http://mingw-w64.org/doku.php/download)
+- add mingw64 bin folder to path so you can run the commands in the CMD
 - download main.cpp
 - run `g++ -o start.exe main.cpp` in CMD to build da exe :)
 - ignore da errors. i used deprecated stuff thats why they show up
