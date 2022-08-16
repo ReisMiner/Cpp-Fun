@@ -1,7 +1,6 @@
 #include <windows.h>
 #include <cstdio>
 #include <string>
-#include <iostream>
 
 #define MOVE_X_INCR 50
 #define MOVE_Y_INCR 20

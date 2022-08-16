@@ -12,6 +12,12 @@ Does some funni things :)
 - run `start start.exe` in CMD or double click da file lol
 - prenk ur friends with the exe :)
 
+### how to use the new virus?
+
+basically the same as the old one, just change the file name.
+
+also you can configure it when you edit the 4 `#defines` at the start of the file
+
 ### Fixing compiler stuff
 
 Sometimes compilers are weird. 
